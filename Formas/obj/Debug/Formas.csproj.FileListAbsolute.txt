@@ -1,0 +1,6 @@
+C:\Users\AnyaMiyeth\OneDrive\Documentos\Visual Studio 2015\Projects\Formas\Formas\bin\Debug\Formas.exe.config
+C:\Users\AnyaMiyeth\OneDrive\Documentos\Visual Studio 2015\Projects\Formas\Formas\bin\Debug\Formas.exe
+C:\Users\AnyaMiyeth\OneDrive\Documentos\Visual Studio 2015\Projects\Formas\Formas\bin\Debug\Formas.pdb
+C:\Users\AnyaMiyeth\OneDrive\Documentos\Visual Studio 2015\Projects\Formas\Formas\obj\Debug\Formas.csprojResolveAssemblyReference.cache
+C:\Users\AnyaMiyeth\OneDrive\Documentos\Visual Studio 2015\Projects\Formas\Formas\obj\Debug\Formas.exe
+C:\Users\AnyaMiyeth\OneDrive\Documentos\Visual Studio 2015\Projects\Formas\Formas\obj\Debug\Formas.pdb
