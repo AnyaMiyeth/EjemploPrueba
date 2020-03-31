@@ -8,6 +8,7 @@ namespace Formas
 {
     public class Cuadrado:Figura
     {
+    // hola
           public Cuadrado(double lado){
             Lado = lado;
         }
