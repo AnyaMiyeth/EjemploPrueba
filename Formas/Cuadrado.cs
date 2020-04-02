@@ -16,13 +16,14 @@ namespace Formas
 
         public override double Area()
         {
+
             return Lado * Lado;
         }
         
 
         public override string ToString() {
             
-            return ($"El Area del Cuadrado es {Area()}");
+            return ($"El  Area de la figura Cuadrado es {Area()}");
         }
     }
 }
